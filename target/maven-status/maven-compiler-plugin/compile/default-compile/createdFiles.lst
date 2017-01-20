@@ -1,0 +1,5 @@
+com/mycompany/kanban/controller/LoginErrors.class
+com/mycompany/kanban/config/SsoApplication.class
+com/mycompany/kanban/config/LoginConfigurer$1.class
+com/mycompany/kanban/controller/TestController.class
+com/mycompany/kanban/config/LoginConfigurer.class
