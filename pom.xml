@@ -83,6 +83,10 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<executable>true</executable>
+					<finalName>ssoservice</finalName>
+				</configuration>
 			</plugin>
 			<plugin>
 				<!--skip deploy (this is just a test module) -->
