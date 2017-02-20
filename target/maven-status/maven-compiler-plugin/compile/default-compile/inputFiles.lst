@@ -1,4 +1,4 @@
-/Users/antongusev/IdeaProjects/kanban/sso/src/main/java/com/mycompany/kanban/config/SsoApplication.java
-/Users/antongusev/IdeaProjects/kanban/sso/src/main/java/com/mycompany/kanban/controller/LoginErrors.java
-/Users/antongusev/IdeaProjects/kanban/sso/src/main/java/com/mycompany/kanban/config/LoginConfigurer.java
-/Users/antongusev/IdeaProjects/kanban/sso/src/main/java/com/mycompany/kanban/controller/TestController.java
+/Users/antongusev/IdeaProjects/sso/src/main/java/com/mycompany/kanban/config/LoginConfigurer.java
+/Users/antongusev/IdeaProjects/sso/src/main/java/com/mycompany/kanban/controller/LoginErrors.java
+/Users/antongusev/IdeaProjects/sso/src/main/java/com/mycompany/kanban/controller/TestController.java
+/Users/antongusev/IdeaProjects/sso/src/main/java/com/mycompany/kanban/config/SsoApplication.java

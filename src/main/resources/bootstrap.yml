@@ -27,6 +27,9 @@ spring:
                   serviceId: zuulservice
     mvc:
       dispatch-options-request: true
+    boot:
+      admin:
+        url: http://localhost:8010
 zuul:
     routes:
         authservice:
